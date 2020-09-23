@@ -3,8 +3,6 @@
 #include <iomanip>
 #include <string>
 
-
-
 int main() {
     std::ifstream in_file{ "./RomeoAndJuliet.txt" }; //opening input file
     std::ofstream out_file{ "./RomeoAndJuliet_copy.txt" }; //opening output file

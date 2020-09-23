@@ -1,7 +1,7 @@
 ![made-with-VisualStudio](https://img.shields.io/badge/Made%20With-Visual%20Studio-ba88f3)  ![Using-CPlusPlus](https://img.shields.io/badge/Using-C%2B%2B-ff69b4)
 
 # Practice with out_file
-...
+simple program that copies the script of Romeo and Juliet from a .txt file, and creates another .txt file with a copy of the script and adds line numbers to it.
 
 <img src="./assets/screenshot.png"
      alt="Img"
